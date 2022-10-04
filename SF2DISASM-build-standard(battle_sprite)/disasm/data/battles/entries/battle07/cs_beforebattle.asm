@@ -44,7 +44,16 @@ bbcs_07:        textCursor 2357
                 nextSingleText $0,129   ; "Just try it!{W1}"
                 entityActionsWait 129
                  moveUp 1
+                endActions				
+                playSound SFX_BOLT_SPELL
+				headshake 128
+                entityActionsWait 128
                 endActions
+                flickerOnce
+                nod 129
+                playSound SFX_BOLT_SPELL
+                entityActionsWait 129
+                endActions                				
                 setActscriptWait 128,eas_BumpDown
                 setQuake 2
                 playSound SFX_LIGHTNING_1
@@ -144,7 +153,7 @@ ce_49F36:       mainEntity 13,35,UP
                 entity 12,14,DOWN,MAPSPRITE_ELIS,eas_Init
                 entity 12,35,UP,MAPSPRITE_GRANSEAL_KING,eas_Init
                 entity 14,35,UP,MAPSPRITE_MINISTER,eas_Init
-                entity 63,63,UP,MAPSPRITE_GALAM_MAGE,eas_Init
+                entity 63,63,UP,MAPSPRITE_GALAM_DWARF,eas_Init
                 entity 63,63,DOWN,MAPSPRITE_GALAM_ARCHER,eas_Init
                 entity 63,63,DOWN,MAPSPRITE_GALAM_KNIGHT,eas_Init
                 dc.w $FFFF
