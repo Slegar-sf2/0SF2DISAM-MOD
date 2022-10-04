@@ -13,8 +13,8 @@ BattleNeutralEntities:
                 dc.b 1
                 dc.b $D1
                 dc.l eas_Standing
-                dc.w $FFFF              ; FFFF to say "end of definition for this battle"
-                dc.w 7                  ; Non-enemy entity definition for battle 7
+                dc.w $FFFF                ; FFFF to say "end of definition for this battle"
+                dc.w $FFFF                ; Non-enemy entity definition for battle 7
                 dc.b $D
                 dc.b $15
                 dc.b 3
@@ -23,7 +23,7 @@ BattleNeutralEntities:
                 dc.b $D
                 dc.b $11
                 dc.b 3
-                dc.b $A4
+                dc.b $D6
                 dc.l eas_LyingLeft
                 dc.b $C
                 dc.b $F
