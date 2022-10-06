@@ -3,7 +3,7 @@
 ; 0x51D30..0x51DE2 : 
 ms_map16_Entities:
                 msFixedEntity 16, 15, DOWN, ALLY_LEMON, eas_Init
-                msFixedEntity 17, 16, DOWN, MAPSPRITE_GALAM_KING, eas_Init
+                msFixedEntity 17, 16, DOWN, MAPSPRITE_GALAM_EVIL, eas_Init
                 msFixedEntity 15, 18, UP, MAPSPRITE_GALAM_ARCHER, eas_Init
                 msFixedEntity 16, 18, UP, MAPSPRITE_GALAM_ARCHER, eas_Init
                 msFixedEntity 18, 18, UP, MAPSPRITE_GALAM_SOLDIER, eas_Init

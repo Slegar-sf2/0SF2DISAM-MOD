@@ -155,7 +155,7 @@ tbl_EnemyMapSprites:
                 mapSprite BOAT
                 mapSprite CREED
                 mapSprite ODDLER
-                mapSprite GALAM_KING
+                mapSprite BAZOO
                 mapSprite MITULA
                 mapSprite POSE6
                 mapSprite POSE7
