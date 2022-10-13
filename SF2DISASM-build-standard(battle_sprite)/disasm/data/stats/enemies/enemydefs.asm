@@ -114,7 +114,7 @@ tbl_EnemyDefs:
                 level    3
                 maxHp    17
                 maxMp    0
-                baseAtt  13
+                baseAtt  14
                 baseDef  12
                 baseAgi  12
                 baseMov  7
@@ -1714,7 +1714,7 @@ tbl_EnemyDefs:
                 level    3
                 maxHp    13
                 maxMp    0
-                baseAtt  12
+                baseAtt  13
                 baseDef  14
                 baseAgi  12
                 baseMov  4

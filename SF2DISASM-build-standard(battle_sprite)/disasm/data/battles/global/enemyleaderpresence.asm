@@ -52,4 +52,4 @@ tbl_EnemyLeaderPresence:
                 dc.b 255                ; 44: Fairy Woods
 				dc.b 0                  ; 45: Yeel village
                 dc.b 0                  ; 46
-				dc.b 0                  ; 47: Granseal
+				dc.b 0                  ; 47: 
