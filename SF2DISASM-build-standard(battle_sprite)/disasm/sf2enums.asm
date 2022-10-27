@@ -2500,6 +2500,7 @@ ENEMYBATTLESPRITE_RED_BARON: equ $32
 ENEMYBATTLESPRITE_GESHP: equ $33
 ENEMYBATTLESPRITE_ODD_EYE: equ $34
 ENEMYBATTLESPRITE_ZEON: equ $35
+ENEMYBATTLESPRITE_CHARMELEON: equ $72
 
 ; ---------------------------------------------------------------------------
 

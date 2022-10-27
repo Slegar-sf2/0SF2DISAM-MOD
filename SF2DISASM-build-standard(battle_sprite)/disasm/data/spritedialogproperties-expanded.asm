@@ -201,7 +201,7 @@ SpriteDialogProperties:
 
                 mapSprite   51
                 portrait    22
-                speechSound 73
+                speechSound 71
 
                 mapSprite   52
                 portrait    23
@@ -217,7 +217,7 @@ SpriteDialogProperties:
 
                 mapSprite   55
                 portrait    26
-                speechSound 67
+                speechSound 76
 
                 mapSprite   56
                 portrait    27
@@ -235,28 +235,196 @@ SpriteDialogProperties:
                 portrait    30
                 speechSound 73
 
-                mapSprite   209
-                portrait    31
-                speechSound 76
+                mapSprite   59
+                portrait    255
+                speechSound 74
 
-                mapSprite   214
-                portrait    38
-                speechSound 75
+                mapSprite   170
+                portrait    11
+                speechSound 73
 
-                mapSprite   204
+                mapSprite   177
                 portrait    55
-                speechSound 71
+                speechSound 70
+
+                mapSprite   187
+                portrait    5
+                speechSound 74
+
+                mapSprite   163
+                portrait    46
+                speechSound 177
 
                 mapSprite   164
-                portrait    38
+                portrait    39
                 speechSound 75
+
+                mapSprite   158
+                portrait    28
+                speechSound 74
+
+                mapSprite   192
+                portrait    34
+                speechSound 73
+
+                mapSprite   193
+                portrait    33
+                speechSound 74
+
+                mapSprite   194
+                portrait    255
+                speechSound 73
+
+                mapSprite   195
+                portrait    255
+                speechSound 71
 
                 mapSprite   203
                 portrait    32
                 speechSound 74
 
+                mapSprite   204
+                portrait    55
+                speechSound 70
+
                 mapSprite   205
                 portrait    56
+                speechSound 73
+
+                mapSprite   207
+                portrait    255
                 speechSound 74
+
+                mapSprite   209
+                portrait    31
+                speechSound 74
+
+                mapSprite   210
+                portrait    255
+                speechSound 69
+
+                mapSprite   212
+                portrait    37
+                speechSound 76
+
+                mapSprite   213
+                portrait    40
+                speechSound 72
+
+                mapSprite   214
+                portrait    38
+                speechSound 75
+
+                mapSprite   215
+                portrait    36
+                speechSound 71
+
+                mapSprite   216
+                portrait    55
+                speechSound 70
+
+                mapSprite   217
+                portrait    255
+                speechSound 71
+
+                mapSprite   218
+                portrait    255
+                speechSound 70
+
+                mapSprite   219
+                portrait    255
+                speechSound 69
+
+                mapSprite   220
+                portrait    255
+                speechSound 75
+
+                mapSprite   221
+                portrait    255
+                speechSound 76
+
+                mapSprite   222
+                portrait    255
+                speechSound 74
+
+                mapSprite   223
+                portrait    255
+                speechSound 72
+
+                mapSprite   224
+                portrait    255
+                speechSound 70
+
+                mapSprite   225
+                portrait    255
+                speechSound 75
+
+                mapSprite   226
+                portrait    255
+                speechSound 74
+
+                mapSprite   227
+                portrait    255
+                speechSound 75
+
+                mapSprite   228
+                portrait    255
+                speechSound 74
+
+                mapSprite   230
+                portrait    255
+                speechSound 69
+
+                mapSprite   231
+                portrait    255
+                speechSound 74
+
+                mapSprite   232
+                portrait    255
+                speechSound 70
+
+                mapSprite   233
+                portrait    255
+                speechSound 74
+
+                mapSprite   234
+                portrait    255
+                speechSound 70
+
+                mapSprite   235
+                portrait    255
+                speechSound 69
+
+                mapSprite   236
+                portrait    255
+                speechSound 74
+
+                mapSprite   155
+                portrait    43
+                speechSound 75
+
+                mapSprite   156
+                portrait    44
+                speechSound 71
+
+                mapSprite   159
+                portrait    45
+                speechSound 74
+
+                mapSprite   160
+                portrait    41
+                speechSound 74
+
+                mapSprite   251
+                portrait    46
+                speechSound 117
+
+                mapSprite   255
+                portrait    42
+                speechSound 112
+
+                mapSprite   229
+                portrait    255
+                speechSound 73
 
                 tableEnd

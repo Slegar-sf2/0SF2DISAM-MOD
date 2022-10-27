@@ -6,9 +6,9 @@ tbl_EnemyGold:  dc.w 40                 ; OOZE
                 dc.w 70                 ; GALAM SOLDIER
                 dc.w 110                 ; GALAM KNIGHT
                 dc.w 100                ; GOBLIN
-                dc.w 90                 ; GREEN OOZE
-                dc.w 140                ; DARK DWARF
-                dc.w 160                ; HOBGOBLIN
+                dc.w 150                 ; Charmeleon
+                dc.w 130                ; DARK DWARF
+                dc.w 140                ; HOBGOBLIN
                 dc.w 180                ; ZOMBIE
                 dc.w 240                ; GOLEM
                 dc.w 200                ; KRAKEN LEG

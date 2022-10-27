@@ -36,7 +36,7 @@ tbl_SpellDefs:
                 properties TYPE_HEAL|TARGET_TEAMMATES|AFFECTEDBYSILENCE
                 range      0, 2
                 radius     0
-                power      15
+                power      20
                     
                 entry      HEAL|LV3     ; HEAL 3
                 mpCost     10

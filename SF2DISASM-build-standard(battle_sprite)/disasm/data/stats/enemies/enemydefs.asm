@@ -136,11 +136,11 @@ tbl_EnemyDefs:
                     
                 unknownByte 4           ; 4: GOBLIN
                 spellPower REGULAR
-                level    6
+                level    5
                 maxHp    18
                 maxMp    0
-                baseAtt  14
-                baseDef  13
+                baseAtt  16
+                baseDef  16
                 baseAgi  13
                 baseMov  5
                 baseResistance NONE
@@ -159,29 +159,29 @@ tbl_EnemyDefs:
                 moveType      REGULAR
                 unknownWord   8224
                     
-                unknownByte 5           ; 5: GREEN OOZE
+                unknownByte 5           ; 5: Charmeleon
                 spellPower REGULAR
                 level    5
-                maxHp    17
-                maxMp    0
-                baseAtt  18
-                baseDef  12
+                maxHp    22
+                maxMp    27
+                baseAtt  24
+                baseDef  16
                 baseAgi  12
-                baseMov  4
-                baseResistance ICE_MAJOR|FIRE_WEAKNESS
-                baseProwess    CRITICAL150_1IN32|DOUBLE_1IN32|COUNTER_1IN32
+                baseMov  6
+                baseResistance FIRE_MAJOR|ICE_WEAKNESS
+                baseProwess    CRITICAL150_1IN32|DOUBLE_1IN8|COUNTER_1IN16
                 items &
                     NOTHING, &
                     NOTHING, &
                     NOTHING, &
                     NOTHING
                 spells &
-                    NOTHING, &
+                    BLAZE|LV2, &
                     NOTHING, &
                     NOTHING, &
                     NOTHING
                 initialStatus NONE
-                moveType      REGULAR
+                moveType      MAGE
                 unknownWord   8224
                     
                 unknownByte 6           ; 6: DARK DWARF
