@@ -956,13 +956,13 @@ tbl_ItemDefs:
                     NONE, 0
                     
                 equipFlags &            ; 87: Bronze Rod
-                    MAGE|PRST|WIZ|SORC|VICR
+                    MAGE|WIZ|SORC
                 range      1, 1
                 price      360
-                itemType   WEAPON
-                useSpell   NOTHING
+                itemType   WEAPON|BREAKABLE
+                useSpell   BOLT|LV1
                 equipEffects &
-                    INCREASE_ATT, 8, &
+                    INCREASE_ATT, 6, &
                     NONE, 0, &
                     NONE, 0
                     

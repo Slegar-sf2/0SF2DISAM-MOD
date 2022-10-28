@@ -1,44 +1,32 @@
 
-; ASM FILE data\maps\entries\map03\5-roof-events.asm :
-; 0x9789E..0x978F0 : 
-                slbc 4, 8
-                  slbcSource 255, 255
-                  slbcSize   7, 8
-                  slbcDest   2, 32
-                slbc 7, 22
+; ASM FILE data\maps\entries\map81\5-roof-events.asm :
+             
+                slbc 13, 20
                   slbcSource 255, 255
                   slbcSize   6, 6
-                  slbcDest   5, 48
-                slbc 8, 22
+                  slbcDest   10, 44
+                slbc 38, 6
+                  slbcSource 255, 255
+                  slbcSize   7, 6
+                  slbcDest   34, 30
+                slbc 14, 7
+                  slbcSource 255, 255
+                  slbcSize   8, 6
+                  slbcDest   9, 31
+                slbc 25, 16
+                  slbcSource 255, 255
+                  slbcSize   7, 6
+                  slbcDest   21, 40
+                slbc 33, 15
                   slbcSource 255, 255
                   slbcSize   6, 6
-                  slbcDest   5, 48
-                slbc 12, 12
+                  slbcDest   30, 39
+                slbc 29, 24
                   slbcSource 255, 255
-                  slbcSize   6, 6
-                  slbcDest   10, 38
-                slbc 19, 12
-                  slbcSource 255, 255
-                  slbcSize   6, 5
-                  slbcDest   17, 39
-                slbc 24, 26
-                  slbcSource 51, 20
-                  slbcSize   9, 7
-                  slbcDest   22, 51
-                slbc 25, 26
-                  slbcSource 51, 20
-                  slbcSize   9, 7
-                  slbcDest   22, 51
-                slbc 32, 15
-                  slbcSource 255, 255
-                  slbcSize   5, 6
-                  slbcDest   30, 41
-                slbc 38, 24
+                  slbcSize   10, 6
+                  slbcDest   22, 48
+                slbc 37, 22
                   slbcSource 255, 255
                   slbcSize   5, 5
-                  slbcDest   36, 51
-                slbc 41, 13
-                  slbcSource 255, 255
-                  slbcSize   9, 8
-                  slbcDest   39, 37
+                  slbcDest   35, 47
                 endWord

@@ -1,9 +1,9 @@
 
 ; ASM FILE data\maps\entries\map81\00-tilesets.asm :
 ;  : 
-                mapPalette  00
+                mapPalette  18
                 mapTileset1 125
                 mapTileset2 126
                 mapTileset3 127
-                mapTileset4 128
-                mapTileset5 066
+                mapTileset4 255
+                mapTileset5 255

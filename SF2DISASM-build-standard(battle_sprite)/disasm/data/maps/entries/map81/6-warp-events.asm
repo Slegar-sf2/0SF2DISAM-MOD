@@ -1,6 +1,6 @@
 
-; ASM FILE data\maps\entries\map03\6-warp-events.asm :
-; 0x978F0..0x9793A : 
+; ASM FILE data\maps\entries\map81\6-warp-events.asm :
+
                 mWarp 255, 1
                   warpNoScroll
                   warpMap    MAP_GRANSEAL_CASTLE_2F

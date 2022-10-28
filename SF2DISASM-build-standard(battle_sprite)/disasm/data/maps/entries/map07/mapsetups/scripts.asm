@@ -81,7 +81,7 @@ cs_55A36:       textCursor 1198
                 nextText $C0,ALLY_PETER ; "I really appreciate your{N}kindness.{W2}"
                 nextSingleText $C0,ALLY_PETER ; "Mt. Volcano is in the east....{N}It's very far away.{W1}"
                 nextSingleText $FF,255  ; "{CLEAR}{LEADER} decides to take{N}{NAME;7} with him.{W1}{CLEAR}"
-                joinForceAI ALLY_PETER,$FFFF ; 0054 JOIN FORCE WITH AI
+                join ALLY_PETER
                 entityActionsWait ALLY_PETER
                  moveDown 2
                 endActions

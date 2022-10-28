@@ -137,10 +137,10 @@ tbl_EnemyDefs:
                 unknownByte 4           ; 4: GOBLIN
                 spellPower REGULAR
                 level    5
-                maxHp    18
+                maxHp    20
                 maxMp    0
                 baseAtt  16
-                baseDef  16
+                baseDef  15
                 baseAgi  13
                 baseMov  5
                 baseResistance NONE
@@ -161,7 +161,7 @@ tbl_EnemyDefs:
                     
                 unknownByte 5           ; 5: Charmeleon
                 spellPower REGULAR
-                level    5
+                level    6
                 maxHp    22
                 maxMp    27
                 baseAtt  24
@@ -1062,10 +1062,10 @@ tbl_EnemyDefs:
                 unknownByte 41          ; 41: VAMPIRE BAT
                 spellPower REGULAR
                 level    7
-                maxHp    20
-                maxMp    8
-                baseAtt  21
-                baseDef  16
+                maxHp    30
+                maxMp    12
+                baseAtt  29
+                baseDef  17
                 baseAgi  16
                 baseMov  6
                 baseResistance NONE
@@ -1461,11 +1461,11 @@ tbl_EnemyDefs:
                     
                 unknownByte 57          ; 57: HUNTER GOBLIN
                 spellPower REGULAR
-                level    7
-                maxHp    24
+                level    6
+                maxHp    27
                 maxMp    0
-                baseAtt  8
-                baseDef  12
+                baseAtt  13
+                baseDef  11
                 baseAgi  14
                 baseMov  5
                 baseResistance NONE
@@ -1737,12 +1737,12 @@ tbl_EnemyDefs:
                 unknownByte 68          ; 68: WITCH
                 spellPower REGULAR
                 level    7
-                maxHp    21
-                maxMp    10
+                maxHp    25
+                maxMp    12
                 baseAtt  9
                 baseDef  12
                 baseAgi  15
-                baseMov  6
+                baseMov  5
                 baseResistance ICE_MINOR
                 baseProwess    CRITICAL150_1IN32|DOUBLE_1IN32|COUNTER_1IN32
                 items &

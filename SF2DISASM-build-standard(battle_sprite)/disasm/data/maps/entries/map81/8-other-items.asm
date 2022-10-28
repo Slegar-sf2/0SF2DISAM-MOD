@@ -1,6 +1,6 @@
 
-; ASM FILE data\maps\entries\map03\8-other-items.asm :
-; 0x97940..0x97946 : 
+; ASM FILE data\maps\entries\map81\8-other-items.asm :
+ 
                 mapItem 59, 17, 128, MEDICAL_HERB
-				mapItem 3, 22, 132, MITHRIL
+                mapItem 3, 22, 132, MITHRIL
                 endWord
