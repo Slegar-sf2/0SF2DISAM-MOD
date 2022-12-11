@@ -2777,7 +2777,7 @@ GetAllyAnimation:
                 bne.w   @CheckSpecialAnimation
                 
                 ; Check if centaur battle sprite
-                move.w   #ALLYBATTLEANIMATION_SPECIALS_START,d2
+                move.b   #ALLYBATTLEANIMATION_SPECIALS_START,d2
                 cmpi.w  #ALLYBATTLESPRITE_KNTE,((ALLY_BATTLE_ANIMATION-$1000000)).w
                 beq.w   @CheckSpearWeaponSprites
                 addq.w  #1,d2
@@ -2802,7 +2802,7 @@ GetAllyAnimation:
                 ; Check if dodge animation type
                 cmpi.w  #BATTLEANIMATION_DODGE,d1
                 bne.s   @Default        
-                move.w   #ALLYBATTLEANIMATION_DODGES_START,d1
+                move.b   #ALLYBATTLEANIMATION_DODGES_START,d1
                 bra.s   @GetAnimationIndex
 @Default:
                 
@@ -2833,7 +2833,7 @@ GetEnemyAnimation:
                 bcc.s   @GetAnimationPointer
                 cmpi.w  #BATTLEANIMATION_DODGE,d1
                 bne.s   @Default
-                move.w   #ENEMYBATTLEANIMATION_DODGES_START,d1
+                move.b   #ENEMYBATTLEANIMATION_DODGES_START,d1
                 bra.s   @GetAnimationIndex
 @Default:
                 
